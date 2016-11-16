@@ -1,3 +1,11 @@
+v1.0.8
+======
+* Fix Twilio fetching the file before the record was commited?!? (test server got wasn't restarting so I was testing old code ><) 
+
+v1.0.7
+======
+* Fix Twilio fetching the file before the record was commited?!?
+
 v1.0.6
 ======
 * Add filename to MMS

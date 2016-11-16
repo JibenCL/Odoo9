@@ -1,2 +1,0 @@
-id,name,model,function,interval_number,interval_type,"active"
-"saas_auto_backup","SAAS Auto Backup","saas.template.database","saas_auto_backup",24,hours,"True"
